@@ -16,7 +16,7 @@ yarn build
 # Installation via NPM
 
 ```
-yarn add tpu-client
+yarn add @getnimbus/tpu-client
 ```
 
 # Usage  
